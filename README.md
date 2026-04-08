@@ -34,8 +34,8 @@ across 38 plant disease classes covering 14 crop species.
 
 ## Grad-CAM Visualizations
 
-![Grad-CAM Single](gradcam_result.png)
-![Grad-CAM Multiple](gradcam_multiple.png)
+![Grad-CAM Single](gradcam_result_small.png)
+![Grad-CAM Multiple](gradcam_multiple_small.png)
 
 ## Key Observations
 
