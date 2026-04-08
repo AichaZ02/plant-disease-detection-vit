@@ -34,8 +34,8 @@ across 38 plant disease classes covering 14 crop species.
 
 ## Grad-CAM Visualizations
 
-![Grad-CAM Single](gradcam_result_small.png)
-![Grad-CAM Multiple](gradcam_multiple_small.png)
+Grad-CAM visualizations are available in the notebook output directly.
+Open `plant-disease-detection.ipynb` to see the heatmaps inline.
 
 ## Key Observations
 
